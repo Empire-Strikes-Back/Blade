@@ -1,0 +1,5 @@
+[user]
+	email = peerdb@library
+	name = peerdb
+
+# git config --local include.path ../.gitconfig
